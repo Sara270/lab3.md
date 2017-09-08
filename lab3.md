@@ -18,5 +18,6 @@ Es una clase que no puede ser instanciada y es utilizada unicamente para definir
 La diferencia es que la herencia posee una relación con sus clases mas estrecha que la interfaz y la interfaz 
 solamente puede definir los metodos que se implementaran en las clases.
 #### ¿Cual es la diferencia entre pila, cola y lista?
+El primer dato en salir de una cola es el primero en entrar a ella mientras que el primer dato en salir de una pila es el último en entrar a ella. En ambas solo se tiene acceso a la cima. Por otro lado, los datos en una lista son accesibles sin importar el orden en que se encuentran.
 
 
